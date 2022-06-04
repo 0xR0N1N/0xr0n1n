@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-profile-trophy.vercel.app/?username=%3Cscript%3Ealert(document.domain)%3C/script%3E" alt=""><script>alert(document.domain)</script>"/>
+<img src="https://github-profile-trophy.vercel.app/?username=%3Cscript%3Ealert(document.domain)%3C/script%3E" alt="">
 <!--
 **0xR0N1N/0xr0n1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
